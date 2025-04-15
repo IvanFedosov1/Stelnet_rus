@@ -1,7 +1,7 @@
 {
-    "ASSAULT": "Assault",
-    "BOMBER": "Bomber",
-    "FIGHTER": "Fighter",
-    "INTERCEPTOR": "Interceptor",
-    "SUPPORT": "Support"
+    "ASSAULT": "Штурмовик",
+    "BOMBER": "Бомбардировщик",
+    "FIGHTER": "Истребитель",
+    "INTERCEPTOR": "Перехватчик",
+    "SUPPORT": "Поддержка"
 }

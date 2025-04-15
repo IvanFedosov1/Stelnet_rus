@@ -1,6 +1,6 @@
 {
-    "BY_MARKET": "Group By Market",
-    "BY_SYSTEM": "Group By Star System",
-    "PER_LOCATION": "Per Location",
-    "UNIFIED": "Unified"
+    "BY_MARKET": "Группировать по рынку",
+    "BY_SYSTEM": "Группировать по звездной системе",
+    "PER_LOCATION": "По местоположению",
+    "UNIFIED": "Объединенный"
 }

@@ -1,6 +1,6 @@
 {
-    "CAPITAL_SHIP": "Capital Ship",
-    "CRUISER": "Cruiser",
-    "DESTROYER": "Destroyer",
-    "FRIGATE": "Frigate"
+    "CAPITAL_SHIP": "Линкор",
+    "CRUISER": "Крейсер",
+    "DESTROYER": "Эсминец",
+    "FRIGATE": "Фрегат"
 }
